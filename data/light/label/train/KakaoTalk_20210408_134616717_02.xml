@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgdata</folder>
+	<filename>KakaoTalk_20210408_134616717_02.jpg</filename>
+	<path>C:\Users\HUSTAR13\Desktop\imgdata\KakaoTalk_20210408_134616717_02.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mark</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1478</xmin>
+			<ymin>1328</ymin>
+			<xmax>3257</xmax>
+			<ymax>2637</ymax>
+		</bndbox>
+	</object>
+</annotation>
